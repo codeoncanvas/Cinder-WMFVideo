@@ -33,6 +33,7 @@
 
 #include "presenter/EVRPresenter.h"
 #include "cinder/Signals.h"
+#include "cinder/app/App.h"
 
 template <class T> void SafeRelease( T** ppT )
 {
