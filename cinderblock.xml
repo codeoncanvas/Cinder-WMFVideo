@@ -7,6 +7,7 @@
 	license="MIT"
 	summary="Implements the WMF video playback in Cinder."
 	core="true"
+	git="git@github.com:codeoncanvas/Cinder-WMFVideo.git"
 	>
 	<sourcePattern>src/*.cpp</sourcePattern>
 	<sourcePattern>src/presenter/*.cpp</sourcePattern>
